@@ -1,0 +1,11 @@
+Olá, professor Hiram. 
+Sou o aluno que está de viagem e que só irá retornar após o período de provas.
+
+Pelo o que entendi, o senhor pediu para implementarmos apenas os 'exercícios' do capítulo solicitado, então opitei por não transcrever os 'problemas'.
+
+irei upar o link do repósito do GIT HUB.
+
+Abraços!
+
+Matheus Santos.
+
